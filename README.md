@@ -9,3 +9,4 @@ Folder structure explanation: There are 5 main folders in the repository structu
 
 Instructions for setting up and running code/Dependencies or requirements: For this assignment most of my time was spent in the writing and testing phase so I do not have a full easy to use notebook written up yet, but I am continuing to work on making it much more user friendly. For now I have created a notebook that contains all the functions I created and comments with how to use them. I will continue to work on writing my code in a more final and user friendly way.
 
+Most information is now in the final report
